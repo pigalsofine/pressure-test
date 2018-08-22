@@ -1,0 +1,3 @@
+/home/wangh/Desktop/小工具/压测软件/pressure_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wangh/Desktop/小工具/压测软件/pressure_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wangh/Desktop/小工具/压测软件/pressure_test/cmake-build-debug/CMakeFiles/pressure_test.dir
